@@ -1,7 +1,7 @@
 # common
 uwsgi==2.0.18
 redis==3.3.5
-celery==4.3.0
+celery==5.2.2
 flower==0.9.3
 psycopg2-binary==2.8.3
 pydevd-pycharm~=192.5728.105
